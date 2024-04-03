@@ -28,8 +28,6 @@ If y represents the dependent variable and x the independent variable, this rela
 ```
 DEVELOPED BY : Vikaash K S
 REGISTER NO  : 212223240179
-```
-```
 import numpy as np
 import math
 import matplotlib.pyplot as plt
